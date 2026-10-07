@@ -1,0 +1,8 @@
+# IDE workspace metadata
+.metadata/
+.vscode/
+
+# Local environment files
+.env
+.env.*
+!.env.example
